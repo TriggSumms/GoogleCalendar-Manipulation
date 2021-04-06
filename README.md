@@ -1,4 +1,8 @@
 # GoogleCalendar-Manipulation
+Express & node.js serving up the heroku deployment
+Google Calendar API with the key and client ID
+MobisScrolls "React Calendar" for the styling win 
+.....
 
 
 
