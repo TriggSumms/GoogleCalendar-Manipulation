@@ -1396,6 +1396,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@mobiscroll/react@https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-5.1.1.tgz":
+  version "5.1.1"
+  resolved "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-5.1.1.tgz#91e2d6ef9fb515467003085983f1f594c4bff4a7"
+
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.4.tgz#d4b3549a5db5de2683e0c1071ab4f140904bbf69"
